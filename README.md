@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+
+Just a german based guy who loves things with computers. At the moment less writing code, but using great technologies like docker, kubernetes, glusterfs, ansible and linux of course as a hobby.
+
+I´m working as a security engineer at a german based company called [DATEV](https://www.datev.de/) which makes tax-software.
+
+In my [freetime](https://www.fuchs-informatik.de) i build websites or any other softwares for smaller local businesses with react or angular and running it on my own server infrastrucure, so i can deep dive into great software stacks.
+
+You can reach me on my mail: [daniel@fuchs-informatik.de](mailto:daniel@fuchs-informatik.de), which is of course also running on my infrastrucure. Huge thanks to [docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) at this point.
+
 
 <!--
 **dfoxg/dfoxg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
