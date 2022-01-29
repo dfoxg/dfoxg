@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Just a german based guy who loves things with computers. At the moment less writing code, but using great technologies like docker, kubernetes, glusterfs, ansible and linux of course as a hobby.
+Just a german based guy who loves things with computers. At the moment less writing code, but using great technologies like docker, kubernetes, glusterfs, ansible and of course linux.
 
 I´m working as a security engineer at a german based company called [DATEV](https://www.datev.de/) which makes tax-software.
 
