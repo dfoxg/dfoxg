@@ -2,7 +2,7 @@
 
 Just a german based guy who loves things with computers. At the moment less writing code, but using great technologies like docker, kubernetes, glusterfs, ansible and of course linux.
 
-I´m working as a security engineer at a german based company called [DATEV](https://www.datev.de/) which makes tax-software.
+I´m working as a security engineer at a german based company which makes tax-software.
 
 In my [freetime](https://www.fuchs-informatik.de) i build websites or any other softwares for smaller local businesses with react or angular and running it on my own server infrastrucure, so i can deep dive into great software stacks.
 
